@@ -1,40 +1,115 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-        <link rel="stylesheet" href="external.css">
-    <title> Welcome to CS291A! </title>
+<html>
+    <head>
+        <title>My Personal Web Page</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
 
-  </head>
-   <body>
-      <h1> Welcome to CS291 A Fall 2021 </h1>
-      <h2> Scalable internet systems </h2>
-      <h3> Course head is Bryce Boe </h3>
-      <img src="scaling.jpg" alt="Please wear a mask in the class!" width="500" height ="500">
-      <h3> Course contents </h3>
-       <ul>
-            <li> HTTP server architecture </li>
-            <li> High availability via load balancing </li>
-            <li> Client side and server side caching </li>
-            <li> Content delivery networks </li>
-       </ul>
-       <table>
-            <tr>
-                  <th>s.no</th>
-                  <th>project</th>
-                  <th>Due date</th>
-            </tr>
-            <tr>
-                  <td>1.</td>
-                  <td>Project 0</td>
-                  <td>September 27th</td>
-            </tr>
-            <tr>
-                   <td>2. </td>
-                   <td>Project 1</td>
-                   <td>October 1st</td>
-            </tr>
-       </table>
-       <a href= "https://github.com/navyabattula/navyabattula.github.io.git" > Visit my github page here! </a>
-  </body>
+    <body>
+        <header>
+            <img src="Photo.jpg" class="profile-img">
+            <nav>
+                <ul>
+                    <li><a href="#hero">Home</a></li>
+                    <li><a href="#about">Research</a></li>
+		    <li><a href = "#teach">Teaching</a></li>
+                    <li><a href="#contact">News</a></li>
+		    <li><a href = "#cv">CV</a></li>
+		    <li><a href = "#book">Reading List</a></li>
+                </ul>
+            </nav>
+        </header>
+        <main>
+            <section id="hero">
+                <div class="section-inner">
+                    <img src="Photo.jpg" class="profile-img">
+                    <h2>Hello! Hola! Namaskaram!</h2>
+                    <h2>Welcome to my Web Page!</h2>
+		    <p>I am second year Masters student in <a href = "https://www.cs.ucsb.edu/">Department of Computer Science at University of California, Santa Barbara</a>. My research interests include Deep Learning, Computer Vision, Data Engineering, Psychology and Gender Studies. I have worked in a variety of projects involving applications of these areas to real world problems. I am currently working on my Masters thesis under the supervision of <a href = "https://sites.cs.ucsb.edu/~arpitgupta/">Professor Arpit Gupta</a>, <a href = "https://snl.cs.ucsb.edu/">Systems and Networking Lab, UCSB</a>. As part of this effort, I built a robust and efficient network data processing framework that is capable of dealing any kind of networking data and processing it any format based on user requirement. Used this framework to synthesize multiple datasets here at SNL lab, UCSB. Apart from this, I am also involved in the network data representation project that aims at creating a representation learning framework capable of learning network data during the pre-training stage using a hierarchical attention model and can be finetuned on any down stream task. Please look into the projects section to see all the projects I have worked on. </a></p>
+                
+                </div>
+            </section>
+            <section id="about">
+                <div class="section-inner">
+                    <h3>Research</h3>
+		    <ul>
+			    <li align = "left">Network Data Processing Pipeline Framework(Jul ’22) Developed an efficient data processing pipeline framework for networking data that is robust, generalizable and extendable to any use case based on requirement. Capable of cleaning, processing and converting raw packet capture data into polished feature sets of multiple granularity (packet, burst and flow) swiftly while being fault tolerant even on very large datasets. Our efficient framework also takes up the ardent task of labelling network data with ease.</li>
+                	    <li align = "left">Network Data Representation(Aug ’22) Developing a representation learning framework for generalizable traffic classification on different down stream tasks utilizing attention based hierarchical model. Can be pre-trained on unlabelled network data and could be fine-tuned on any down stream application like Application fingerprinting, intrusion detection, etc.</li>    
+			    <li align = "left"> Contextualization of Speed test measurements using Attention based models.(Dec ’22) Undertook a project that focused on contextualizing speed test measurements using attention models. Utilizing the netUnicorn Infrastructure to collect a labelled datasets of speed test measurements. Planning to pretrain an attention-based hierarchical model using unlabelled data, and subsequently fine-tuned it using the labeled data to infer the context in which the speed tests were performed.</li>
+			    <li align = "left">The emission and transmission probabilities play a crucial role in deciding the state of the channel and prediction of these statistics to understand the state of channel only by looking at the packet drop statistics has been a long debated issues. Developed a neural network model to predict the emission and transmission probabilities in the Gilbert Elliot channel. Collected packet drop statistics using Sim2net package python as input for the model.Reported  ̃75% accuracy which was better than existing state of the art Baum Welch that gave  ̃55% accuracy.Paper accepted at Indian Academy of sciences Summer Research Fellow reports journal</li>
+		    <h3>Projects</h3>
+                    <ul>
+                        <li align = "left">Physical Training app using TensorflowJS: (Sept ’22 - Dec ’22) Developed a Physical training web application that uses the TensorflowJS based MoveNet model for exercise tracking based on pose estimation from web cam and timing.Developed an easy to use UI that prompts easy dataset curation and training which along with light weight TensorFlowJS makes it easy to use even on low end mobile phones.</li>
+                        <li align = "left">Developed an E-Commerce Application using Ruby On Rails: (Sept’21 - Dec’21) Designed an E-Commerce application E-Kirana for course project using the Rails framework. Authored Tsung scripts to test the website on different Amazon Web service instances and improved the website functionality by introducing optimizations to make the web page more scalable.</li>
+                        <li align = "left">Robust Mask Detection using CNNs : (Mar’21 - Jun’21) Developed Open CV pipelines to capture frames from real time web cam streaming and trained a CNN model to detect if whether a person is wearing a face mask properly and reported an accuracy of  ̃98%.</li>
+			<li align = "left">Quizzing App for Android): (Nov’20 - Jan’21) Developed an android quiz application. Made use of SQLite database integrated with app source code written in Java to retrieve random questions from question pool and different tests for different students. Hosted this on our campus server and employed Cassandra as no SQL DB.</li>
+			<li align = "left">Developed an Open CV framework along with de-noising that is capable of diagnosing Diabetic Retinopathy from retinal fundus images. Reports accuracy of 96% on normal images and 91% on noisy images</li>
+                        <li align = "left">Developed an Open CV module that detects surroundings in a metal shop based on depth information and color of the light. Made use of bounding boxes to identify door surroundings and used color channel operations to distinguish between lights.</li>
+		    </ul>
+		</div>
+	    </section>
+	    <section id = "teach">
+		    <div class = "section-inner">
+		    <h3>Publications</h3>
+		    <ul>
+			    <li align = "left"> N. Battula, V. K. Panganamala, ”Optimal Parameter estimation for achieving Low Latency and Reliable Communication using Deep Neural Networks.”, Summer Research Fellow Reports Journal, Indian Academy of Sciences, 2020 Edition.</li>
+			    <li align = "left">Navya Battula, Srihitha Putta, ”Humanitarianism: A new approach of teaching gender equality.”, Notion Press, ISBN-13 : 978-1636698687</li>
+		    </ul>
+		    <h3>Teaching</h3>
+		    <ul>
+			    <li align = "left">Taught the class CS5A Introduction to Data Science as Teaching Assistant for undergrad students at UCSB thrice and mentored 100 students till now. Designed assignments and managed grading plans for the class. Had experience teaching concepts like table manipulation operations, probabilistic distributions, data processing, etc.</li>
+			    <li align = "left">Monitored assignment creation and course structuring for CS176B Machine learning for Networking undergrad course yet to be taught in Spring 2023</li>
+			    <li align = "left">Taught the class CSW8 Introduction to Computer Science (Basic python programming) as Teaching Assistant for undergrad students at UCSB twice and mentored 60 students till now. Taught concepts of basic python programming language. Handled labs, office hours and assignement creation.</li>
+			    <li align = "left">Taught the class CS154 Introduction to Computer Architecture as Teaching Assistant for undergrad students at UCSB once and mentored 30 students in my section.</li>
+			    <li align = "left">Taught the class CS16 Problem Solving with C++ as Teaching Assistant for undergrad students at UCSB once and mentored 30 students in my section.</li>
+	            </ul>
+                </div>
+            </section>
+            <section id="contact">
+                <div class="section-inner">
+                    <h3>News</h3>
+                    <p>Find the latest news here:</p>
+                    <ul>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+                    </ul>
+                </div>
+            </section>
+	    <section id = "cv">
+		    <div class = "section-inner">
+			    <h3> Curriculum Vitae </h3>
+			    <p> Please find my Academic CV and Resume here </p>
+			    <ul>
+				    <li><a href = "Academic_CV.pdf"> Academic CV</a></li>
+			    	    <li><a href = "Resume_.pdf">Resume</a></li>
+			    <ul>
+
+
+		   </div>
+	   </section>
+	   <section id = "book">
+		   <div class = "section-inner">
+			   <h3>Papers to read</h3>
+			   <p>Yet to be announced</p>
+			   <h3>Book Club</h3>
+			   <p> Yet to be announced</p>
+		</div>
+	   </section>
+
+        </main>
+        <footer>
+	    <div class="social-footer-left">
+  </div>
+  <div class="social-footer-icons">
+     <a href="https://www.linkedin.com/in/navya-battula-27b5861a2/"><img src = "linkedin.png" height = "40" width = "40"></a>
+     <a href="https://github.com/navyabattula"><img src = "github.png" height = "40" width = "40"></a>
+     <a href = "mailto:navyabio12@gmail.com"><img src = "mail.png" height = "40" width = "40"></a>
+  </div>
+            © Navya Battula, 2023
+        </footer>
+    </body>
 </html>
-
