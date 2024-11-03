@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Navya Battula's Portfolio"
+title                    : "Navya's HomePage"
 title_separator          : "-"
 name                     : &name "Navya Battula"
 description              : &description "Highly motivated and skilled AI Engineer with over an year of experience in developing and deploying
