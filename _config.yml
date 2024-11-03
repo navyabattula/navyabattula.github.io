@@ -17,7 +17,7 @@ to build robust, scalable solutions. Proficient in a wide range of technologies 
 PostgreSQL, TensorFlow, PyTorch, Open CV and more. Proven track record of success through hands-on
 projects and internships, with significant contributions in Computer Vision, Machine Learning, ChatBots and AI-driven
 document management systems. Published researcher with a strong foundation in both theoretical and applied AI."
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://navyabattula.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
