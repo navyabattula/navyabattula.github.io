@@ -1,14 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "PERRY: Flexible and Scalable Data Preprocessing System for ”ML for Networks” Pipelines"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 2023
+venue: 'UC Santa Barbara Proquest Electronic Theses and Dissertation'
+slidesurl: 'https://escholarship.org/uc/item/6p42s4w9'
+paperurl: 'https://escholarship.org/uc/item/6p42s4w9'
+citation: 'Battula, N. (2023). PERRY: A Flexible and Scalable Data Preprocessing System for "ML for Networks" Pipelines. UC Santa Barbara. ProQuest ID: Battula_ucsb_0035N_16163. Merritt ID: ark:/13030/m5j49rxb. Retrieved from https://escholarship.org/uc/item/6p42s4w9'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+PERRY is my masters thesis dissertation in which I discuss the prevailing issue of tight coupling between data processing and
+model training parts in Machine learning for networking pipelines and then try to address this problem with a flexible and
+scalable data processing framework called PERRY. Leveraging state of the art tools and being scalable with limited resources
+makes our framework an easy to use solution for networking researchers.
