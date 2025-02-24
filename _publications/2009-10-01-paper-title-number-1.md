@@ -3,8 +3,8 @@ title: "PERRY: Flexible and Scalable Data Preprocessing System for ”ML for Net
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023
+excerpt: 'Masters Thesis Dissertation UCSB - Defense 2023, Published 2024'
+date: 2024
 venue: 'UC Santa Barbara Proquest Electronic Theses and Dissertation'
 slidesurl: 'https://escholarship.org/uc/item/6p42s4w9'
 paperurl: 'https://escholarship.org/uc/item/6p42s4w9'
