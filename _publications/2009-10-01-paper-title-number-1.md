@@ -8,7 +8,7 @@ date: 2023-10-31
 venue: 'UC Santa Barbara Proquest Electronic Theses and Dissertation'
 slidesurl: 'https://escholarship.org/uc/item/6p42s4w9'
 paperurl: 'https://escholarship.org/uc/item/6p42s4w9'
-citation: 'Battula, N. (2023). PERRY: A Flexible and Scalable Data Preprocessing System for "ML for Networks" Pipelines. UC Santa Barbara. ProQuest ID: Battula_ucsb_0035N_16163. Merritt ID: ark:/13030/m5j49rxb. Retrieved from https://escholarship.org/uc/item/6p42s4w9'
+citation: 'This is empty for now'
 ---
 
 PERRY is my masters thesis dissertation in which I discuss the prevailing issue of tight coupling between data processing and
