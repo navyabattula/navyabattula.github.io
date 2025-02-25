@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Q&A ChatBot using Langchain and Open Source LLMs"
+excerpt: "Created a Question and Answer Chatbot utilizing the Langchain Framework that utilizes the choice of Llama 2, Llama 3 and Gemma 2 models. 1<br/><img src='/images/images2.png'>"
+collection: Personal Project
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Created a Question and Answer Chatbot utilizing the Langchain Framework that utilizes the choice of Llama 2, Llama 3 and Gemma 2 models. Designed an intuitive user interface using Streamlit. Maintained chat history using Langchain tools to retain short term memory.
