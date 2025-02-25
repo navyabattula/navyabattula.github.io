@@ -3,7 +3,7 @@ title: "PERRY: Flexible and Scalable Data Preprocessing System for ”ML for Net
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Masters Thesis Dissertation UCSB - Defense 2023, Published 2023'
+excerpt: 'PERRY is my masters thesis dissertation in which I discuss the prevailing issue of tight coupling between data processing and model training parts in Machine learning for networking pipelines and then try to address this problem with a flexible and scalable data processing framework called PERRY. Leveraging state of the art tools and being scalable with limited resources makes our framework an easy to use solution for networking researchers.'
 date: 2023-10-31
 venue: 'UC Santa Barbara Proquest Electronic Theses and Dissertation'
 slidesurl: 'https://escholarship.org/uc/item/6p42s4w9'
