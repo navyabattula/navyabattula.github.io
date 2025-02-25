@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Network Data Processing Pipeline Framework PERRY (MS Thesis)"
+excerpt: "Designed and implemented PERRY, an adaptable data processing framework for networking data.<br/><img src='/images/images4.png'>"
+collection: Masters Thesis
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Designed and implemented PERRY, an adaptable data processing framework for networking data. This versatile solution efficiently cleans, processes, and converts raw packet capture data into refined feature sets (packet, burst, flow) with speed and fault tolerance, accommodating even large datasets.
