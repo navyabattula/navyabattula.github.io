@@ -1,7 +1,7 @@
 ---
 title: "2022 Winter CS154 - Computer Architecture"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of California, Santa Barbara, Computer Science"
 date: 2022-01-03
