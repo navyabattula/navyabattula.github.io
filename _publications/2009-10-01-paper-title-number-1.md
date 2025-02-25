@@ -3,12 +3,12 @@ title: "PERRY: Flexible and Scalable Data Preprocessing System for ”ML for Net
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'Masters Thesis Dissertation Defended 2023 Published 2023'
-date: 2023-10-31
-venue: 'UC Santa Barbara Proquest Electronic Theses and Dissertation'
-slidesurl: 'https://escholarship.org/uc/item/6p42s4w9'
-paperurl: 'https://escholarship.org/uc/item/6p42s4w9'
-citation: 'This is empty for now'
+excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2015-10-01
+venue: 'Journal 1'
+slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
 PERRY is my masters thesis dissertation in which I discuss the prevailing issue of tight coupling between data processing and
