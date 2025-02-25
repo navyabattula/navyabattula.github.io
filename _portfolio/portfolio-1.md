@@ -1,7 +1,7 @@
 ---
 title: "Chat with SQL - A Agent based CSM model to chat with databases"
 excerpt: "AI-powered customer support chatbot that seamlessly connects to an SQL database to retrieve and provide real-time sales
-data to users. <br/><img src='/images/500x300.png'>"
+data to users. <br/><img src='/images/images1.png'>"
 collection: Personal Project
 ---
 
