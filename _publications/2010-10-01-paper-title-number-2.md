@@ -8,7 +8,7 @@ date: 2023-10-25
 venue: 'Arxiv'
 slidesurl: 'https://arxiv.org/abs/2310.17025'
 paperurl: 'https://arxiv.org/abs/2310.17025'
-citation: 'Satyandra Guthula, Roman Beltiukov, Navya Battula, Wenbo Guo, Arpit Gupta, & Inder Monga. (2025). netFound: Foundation'
+citation: 'This is empty for now'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
