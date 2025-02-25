@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Physical Training app using TensorflowJS:"
+excerpt: "Created a Physical Training web application utilizing the TensorFlowJS-based MoveNet model for real-time exercise tracking through pose estimation<br/><img src='/images/images5.png'>"
+collection: Course Project
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Created a Physical Training web application utilizing the TensorFlowJS-based MoveNet model for real-time exercise tracking through pose estimation from a webcam. Designed an intuitive user interface facilitating effortless dataset curation and training. The lightweight nature of TensorFlowJS ensures smooth performance, even on low-end mobile devices.
