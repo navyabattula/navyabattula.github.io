@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+title: "Search Engine Application based on AI Agents using Open Source LLMS"
+excerpt: "Created a Search Engine Tool utilizing the Langchain Framework and AI Agents along with LLMs 1<br/><img src='/images/images3.png'>"
+collection: Personal Project
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Created a Search Engine Tool utilizing the Langchain Framework and AI Agents along with LLMs Llama 2, Llama 3 and Gemma 2 models. The search engine uses Tools like Wikipedia, Arxiv and Duck Duck Go Browser to scrape through online content and answer specific queries. Designed an intuitive user interface using Streamlit.
