@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello 👋🏻 everyone! Welcome to my personal webpage! A little bit about me - I am an **AI Engineer** with a passion for pushing the boundaries of what’s possible with cutting-edge technologies. With **1.5 years of hands-on experience in Generative AI, Deep Learning, and Large Language Models (LLMs)**, I specialize in building intelligent systems that transform data into actionable insights and seamless user experiences.
+Hello 👋🏻 everyone! Welcome to my personal webpage! A little bit about me - I am an **AI Engineer** with a passion for pushing the boundaries of what’s possible with cutting-edge technologies. With **2 years of hands-on experience in Generative AI, Deep Learning, and Large Language Models (LLMs)**, I specialize in building intelligent systems that transform data into actionable insights and seamless user experiences.
 
 My expertise lies in Natural Language Processing (NLP), where I’ve developed and deployed state-of-the-art AI solutions. From **fine-tuning GPT and BERT models** to powering **content recommendation systems with Pinecone VectorDB**, I’ve driven a **40% increase in user engagement** by crafting personalized, AI-driven experiences. I’ve also built **multi-modal AI assistants integrating OpenAI GPT and Anthropic Claude**, revolutionizing customer support with a **60% boost in efficiency**.
 
