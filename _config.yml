@@ -11,12 +11,9 @@ locale                   : "en-US"
 title                    : "Navya's HomePage"
 title_separator          : "-"
 name                     : &name "Navya Battula"
-description              : &description "Highly motivated and skilled AI Engineer with over an year of experience in developing and deploying
+description              : &description "Highly motivated and skilled ML Engineer with over 3 years of experience in developing and deploying
 Generative AI and Deep learning models. Demonstrated expertise in using cutting-edge AI tools and frameworks
-to build robust, scalable solutions. Proficient in a wide range of technologies including PySpark, Hadoop,
-PostgreSQL, TensorFlow, PyTorch, Open CV and more. Proven track record of success through hands-on
-projects and internships, with significant contributions in Computer Vision, Machine Learning, ChatBots and AI-driven
-document management systems. Published researcher with a strong foundation in both theoretical and applied AI."
+to build robust, scalable solutions. Proficient in a wide range of Gen AI technologies and Frameworks like Pytorch, Langchain, Agentic AI, etc. Proven track record of buidling state of the art applications in the domain of AI assistants, model finetuning, Document management systems, Recommendation Systems etc. Published researcher with a strong foundation in both theoretical and applied AI."
 url                      : https://navyabattula.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "navyabattula/navyabattula.github.io"
@@ -29,14 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Navya Battula"
   pronouns         : # example: "she/her"  
-  bio              : "Highly motivated and skilled AI Engineer with over an year of experience in developing and deploying
+  bio              : "Highly motivated and skilled ML Engineer with over 3 years of experience in developing and deploying
 Generative AI and Deep learning models. Demonstrated expertise in using cutting-edge AI tools and frameworks
-to build robust, scalable solutions. Proficient in a wide range of technologies including PySpark, Hadoop,
-PostgreSQL, TensorFlow, PyTorch, Open CV and more. Proven track record of success through hands-on
-projects and internships, with significant contributions in Computer Vision, Machine Learning, ChatBots and AI-driven
-document management systems. Published researcher with a strong foundation in both theoretical and applied AI."
-  location         : "Seattle, WA"
-  employer         : "OQ Point LLC"
+to build robust, scalable solutions. Proficient in a wide range of Gen AI technologies and Frameworks like Pytorch, Langchain, Agentic AI, etc. Proven track record of buidling state of the art applications in the domain of AI assistants, model finetuning, Document management systems, Recommendation Systems etc. Published researcher with a strong foundation in both theoretical and applied AI."
+  location         : "Pune, India"
+  employer         : "Acuitilabs"
   uri              : # URL
   email            : "navyabio12@gmail.com" 
 
